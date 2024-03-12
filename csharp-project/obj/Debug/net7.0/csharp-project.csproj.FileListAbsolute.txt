@@ -1,0 +1,14 @@
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\bin\Debug\net7.0\csharp-project.exe
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\bin\Debug\net7.0\csharp-project.deps.json
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\bin\Debug\net7.0\csharp-project.runtimeconfig.json
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\bin\Debug\net7.0\csharp-project.dll
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\bin\Debug\net7.0\csharp-project.pdb
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.AssemblyInfoInputs.cache
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.AssemblyInfo.cs
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.csproj.CoreCompileInputs.cache
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.dll
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\refint\csharp-project.dll
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.pdb
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\csharp-project.genruntimeconfig.cache
+C:\Users\alest\RiderProjects\mpp\mpp-proiect-csharp-alestoica\csharp-project\obj\Debug\net7.0\ref\csharp-project.dll
