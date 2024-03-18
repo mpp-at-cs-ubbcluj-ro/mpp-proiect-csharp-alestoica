@@ -1,0 +1,310 @@
+2024-03-16 00:51:26,544 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-16 00:51:26,556 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:51:26,623 [1] INFO SortingTaskDbRepository - exiting FindAll with value System.Collections.Generic.List`1[csharp_project_new.model.Participant]
+2024-03-16 00:51:26,625 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-16 00:51:26,625 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:51:26,626 [1] INFO SortingTaskDbRepository - exiting FindAll with value System.Collections.Generic.List`1[csharp_project_new.model.Employee]
+2024-03-16 00:51:26,627 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-16 00:51:26,628 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:51:26,628 [1] INFO SortingTaskDbRepository - exiting FindAll with value System.Collections.Generic.List`1[csharp_project_new.model.AgeEvent]
+2024-03-16 00:51:26,629 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-16 00:51:26,630 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:51:26,630 [1] INFO SortingTaskDbRepository - exiting FindAll with value System.Collections.Generic.List`1[csharp_project_new.model.Registration]
+2024-03-16 00:54:48,946 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-16 00:54:48,957 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:54:49,023 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:54:49,024 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-16 00:54:49,025 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:54:49,025 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:54:49,026 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-16 00:54:49,027 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:54:49,027 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:54:49,028 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-16 00:54:49,029 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:54:49,029 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:55:26,623 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-16 00:55:26,634 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:55:26,700 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:55:26,703 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-16 00:55:26,703 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:55:26,704 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:55:26,705 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-16 00:55:26,705 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:55:26,706 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-16 00:55:26,707 [1] INFO SortingTaskDbRepository - entering FindOne with value 1
+2024-03-16 00:55:26,717 [1] INFO SortingTaskDbRepository - exiting FindOne with value Age Event 1: 
+age group: Group68Years; 
+sports event: Meters50
+2024-03-16 00:55:26,718 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-16 00:55:26,718 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-16 00:55:26,719 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 20:44:37,985 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 20:44:38,017 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 20:44:38,286 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 20:44:38,288 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-17 20:44:38,288 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 20:44:38,289 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 20:44:38,290 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-17 20:44:38,291 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 20:44:38,292 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 20:44:38,293 [1] INFO SortingTaskDbRepository - entering FindOne with value 1
+2024-03-17 20:44:38,298 [1] INFO SortingTaskDbRepository - exiting FindOne with value Age Event 1: 
+age group: Group68Years; 
+sports event: Meters50
+2024-03-17 20:44:38,299 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-17 20:44:38,299 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 20:44:38,300 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:02:59,555 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:02:59,567 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:02:59,641 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:02:59,641 [1] INFO SortingTaskDbRepository - entering Add with value Participant 2345: Jane Smith
+age: 9
+2024-03-17 22:02:59,643 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:02:59,643 [1] INFO SortingTaskDbRepository - entering Add with value Participant 3456: Clare Rogers
+age: 7
+2024-03-17 22:02:59,645 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:04:22,033 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:04:22,045 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:04:22,110 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:04:22,112 [1] INFO SortingTaskDbRepository - entering Delete with value 1234
+2024-03-17 22:04:22,126 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:04:22,126 [1] INFO SortingTaskDbRepository - entering Delete with value 2345
+2024-03-17 22:04:22,128 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:04:22,128 [1] INFO SortingTaskDbRepository - entering Delete with value 3456
+2024-03-17 22:04:22,131 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:04:39,339 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:04:39,351 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:04:39,428 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:04:39,428 [1] INFO SortingTaskDbRepository - entering Add with value Participant 2345: Jane Smith
+age: 9
+2024-03-17 22:04:39,431 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:04:39,431 [1] INFO SortingTaskDbRepository - entering Add with value Participant 3456: Clare Rogers
+age: 7
+2024-03-17 22:04:39,434 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:05:53,313 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:05:53,324 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:05:53,392 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:05:53,393 [1] INFO SortingTaskDbRepository - entering Delete with value 1234
+2024-03-17 22:05:53,406 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:05:53,406 [1] INFO SortingTaskDbRepository - entering Delete with value 2345
+2024-03-17 22:05:53,407 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:05:53,409 [1] INFO SortingTaskDbRepository - entering Delete with value 3456
+2024-03-17 22:05:53,410 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:06:09,548 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:06:09,560 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:06:09,637 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:06:09,637 [1] INFO SortingTaskDbRepository - entering Add with value Participant 2345: Jane Smith
+age: 9
+2024-03-17 22:06:09,640 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:06:09,640 [1] INFO SortingTaskDbRepository - entering Add with value Participant 3456: Clare Rogers
+age: 7
+2024-03-17 22:06:09,643 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:06:09,643 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:06:09,643 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:06:09,646 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:06:09,646 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:06:09,646 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:06:09,646 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:06:09,647 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:06:09,647 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:06:09,647 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 12
+2024-03-17 22:06:09,647 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:06:09,648 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:06:09,648 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:06:09,648 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:06:09,649 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:06:09,649 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:06:09,649 [1] INFO SortingTaskDbRepository - entering Add with value Participant 4567: Rachel Ross
+age: 10
+2024-03-17 22:06:09,651 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:06:09,652 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:06:09,652 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:06:09,652 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:06:09,652 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:06:41,527 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:06:41,537 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:37:38,155 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:37:38,167 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:37:38,238 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:46:19,617 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:46:19,627 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:46:19,697 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 10
+2024-03-17 22:46:19,698 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:46:19,700 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:46:19,701 [1] INFO SortingTaskDbRepository - entering Add with value Participant 5432: Rachel Zane
+age: 11
+2024-03-17 22:47:33,917 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:47:33,928 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:47:33,996 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 10
+2024-03-17 22:47:33,999 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:47:34,001 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:47:34,002 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1111: Rachel Zane
+age: 11
+2024-03-17 22:47:34,006 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:47:34,006 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:47:34,007 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:47:34,008 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-17 22:47:34,010 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:47:34,011 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-17 22:47:34,011 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:47:34,011 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:47:34,012 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-17 22:47:34,014 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:47:34,014 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:47:34,015 [1] INFO SortingTaskDbRepository - entering FindOne with value 1
+2024-03-17 22:47:34,016 [1] INFO SortingTaskDbRepository - exiting FindOne with value Age Event 1: 
+age group: Group68Years; 
+sports event: Meters50
+2024-03-17 22:47:34,016 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-17 22:47:34,017 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:47:34,017 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,279 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 22:50:13,290 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:50:13,358 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 10
+2024-03-17 22:50:13,360 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,361 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,362 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1111: Rachel Zane
+age: 11
+2024-03-17 22:50:13,373 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:50:13,373 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,373 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,374 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-17 22:50:13,377 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:50:13,377 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-17 22:50:13,378 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,379 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,380 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 22:50:13,380 [1] INFO SortingTaskDbRepository - exiting FindOne with value Employee 1234: John Smith
+username: john_smith
+2024-03-17 22:50:13,380 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,380 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,381 [1] INFO SortingTaskDbRepository - entering Add with value Employee 1111: Rachel Zane
+username: rachel_zane
+2024-03-17 22:50:13,383 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 22:50:13,383 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,384 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,385 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-17 22:50:13,387 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 22:50:13,388 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-17 22:50:13,388 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,389 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 22:50:13,390 [1] INFO SortingTaskDbRepository - entering FindOne with value 1
+2024-03-17 22:50:13,390 [1] INFO SortingTaskDbRepository - exiting FindOne with value Age Event 1: 
+age group: Group68Years; 
+sports event: Meters50
+2024-03-17 22:50:13,391 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-17 22:50:13,391 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 22:50:13,392 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,436 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-17 23:05:03,447 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 23:05:03,516 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 10
+2024-03-17 23:05:03,519 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,520 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,522 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1111: Rachel Zane
+age: 11
+2024-03-17 23:05:03,527 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 23:05:03,527 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,527 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,528 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-17 23:05:03,530 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 23:05:03,531 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-17 23:05:03,531 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 23:05:03,531 [1] INFO SortingTaskDbRepository - exiting FindOne with value Employee 1234: John Smith
+username: john_smith
+2024-03-17 23:05:03,532 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,532 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,533 [1] INFO SortingTaskDbRepository - entering Add with value Employee 1111: Rachel Zane
+username: rachel_zane
+2024-03-17 23:05:03,536 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 23:05:03,536 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,536 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,537 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-17 23:05:03,541 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-17 23:05:03,541 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-17 23:05:03,542 [1] INFO SortingTaskDbRepository - entering FindByAgeGroupAndSportsEvent
+2024-03-17 23:05:03,542 [1] INFO SortingTaskDbRepository - exiting FindByAgeGroupAndSportsEvent
+2024-03-17 23:05:03,543 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 23:05:03,544 [1] INFO SortingTaskDbRepository - exiting FindOne with value {0}
+2024-03-17 23:05:03,544 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,545 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,545 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-17 23:05:03,546 [1] INFO SortingTaskDbRepository - entering FindByAgeEvent
+2024-03-17 23:05:03,546 [1] INFO SortingTaskDbRepository - exiting FindByAgeEvent
+2024-03-17 23:05:03,547 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-17 23:05:03,547 [1] INFO SortingTaskDbRepository - exiting FindOne with value {0}
+2024-03-17 23:05:03,548 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,548 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,549 [1] INFO SortingTaskDbRepository - entering Add with value Registration 1111: 
+participant: 56789; 
+age event: 2; 
+employee: 5432
+2024-03-17 23:05:03,552 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-17 23:05:03,552 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-17 23:05:03,553 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-17 23:05:03,554 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-17 23:05:03,557 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-18 21:05:41,832 [1] INFO SortingTaskDbRepository - creating ParticipantDbRepository 
+2024-03-18 21:05:41,862 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-18 21:05:42,143 [1] INFO SortingTaskDbRepository - exiting FindOne with value Participant 1234: John Doe
+age: 10
+2024-03-18 21:05:42,145 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,146 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,148 [1] INFO SortingTaskDbRepository - entering Add with value Participant 1111: Rachel Zane
+age: 11
+2024-03-18 21:05:42,153 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-18 21:05:42,153 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,153 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,155 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-18 21:05:42,157 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-18 21:05:42,157 [1] INFO SortingTaskDbRepository - creating EmployeeDbRepository 
+2024-03-18 21:05:42,158 [1] INFO SortingTaskDbRepository - entering FindOne with value 1234
+2024-03-18 21:05:42,158 [1] INFO SortingTaskDbRepository - exiting FindOne with value Employee 1234: John Smith
+username: john_smith
+2024-03-18 21:05:42,159 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,159 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,161 [1] INFO SortingTaskDbRepository - entering Add with value Employee 1111: Rachel Zane
+username: rachel_zane
+2024-03-18 21:05:42,164 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-18 21:05:42,164 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,164 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,165 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-18 21:05:42,168 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
+2024-03-18 21:05:42,169 [1] INFO SortingTaskDbRepository - creating AgeEventDbRepository 
+2024-03-18 21:05:42,169 [1] INFO SortingTaskDbRepository - entering FindByAgeGroupAndSportsEvent
+2024-03-18 21:05:42,170 [1] INFO SortingTaskDbRepository - exiting FindByAgeGroupAndSportsEvent
+2024-03-18 21:05:42,171 [1] INFO SortingTaskDbRepository - entering FindOne with value 1
+2024-03-18 21:05:42,171 [1] INFO SortingTaskDbRepository - exiting FindOne with value Age Event 1: 
+age group: Group68Years; 
+sports event: Meters50
+2024-03-18 21:05:42,171 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,171 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,172 [1] INFO SortingTaskDbRepository - creating RegistrationDbRepository 
+2024-03-18 21:05:42,172 [1] INFO SortingTaskDbRepository - entering FindByAgeEvent
+2024-03-18 21:05:42,173 [1] INFO SortingTaskDbRepository - exiting FindByAgeEvent
+2024-03-18 21:05:42,174 [1] INFO SortingTaskDbRepository - entering FindOne with value 1001
+2024-03-18 21:05:42,174 [1] INFO SortingTaskDbRepository - exiting FindOne with value Registration 1001: 
+participant: 1234; 
+age event: 3; 
+employee: 1234
+2024-03-18 21:05:42,175 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,175 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,176 [1] INFO SortingTaskDbRepository - entering Add with value Registration 1111: 
+participant: 56789; 
+age event: 2; 
+employee: 5432
+2024-03-18 21:05:42,180 [1] INFO SortingTaskDbRepository - exiting Add with value 1
+2024-03-18 21:05:42,180 [1] INFO SortingTaskDbRepository - entering FindAll
+2024-03-18 21:05:42,180 [1] INFO SortingTaskDbRepository - exiting FindAll
+2024-03-18 21:05:42,181 [1] INFO SortingTaskDbRepository - entering Delete with value 1111
+2024-03-18 21:05:42,185 [1] INFO SortingTaskDbRepository - exiting Delete with value 1
