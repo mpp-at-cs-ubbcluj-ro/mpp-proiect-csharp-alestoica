@@ -113,8 +113,13 @@ namespace csharp_project
                 var age = selectedRow.Cells["age"].Value;
                 var participant = _service.FindOneByNameAndAge(firstName.ToString(), lastName.ToString(), Convert.ToInt32(age));
                 
-                var registerForm = new RegisterForm(_service, _currentEmployee, participant);
-                registerForm.ShowDialog();
+                if (_service.FindByParticipant(participant).Count == 2)
+                    MessageAlert.ShowErrorMessage(null, "This participant is already registered in the maximum number of events (2)!");
+                else
+                {
+                    var registerForm = new RegisterForm(_service, _currentEmployee, participant);
+                    registerForm.ShowDialog();   
+                }
             }
             catch (Exception ex)
             {

@@ -125,7 +125,7 @@ namespace csharp_project
                     _currentParticipant = participant;
 
                     _service.AddParticipant(participant);
-                    Console.WriteLine("Participant successfully added!");
+                    MessageAlert.ShowMessage(null, MessageBoxIcon.Information, "Register Confirmation", "Participant registered successfully!");
                 }
                 else
                 {
