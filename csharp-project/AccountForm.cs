@@ -107,18 +107,26 @@ namespace csharp_project
         {
             try
             {
-                var selectedRow = dataGridViewParticipants.SelectedRows[0];
-                var firstName = selectedRow.Cells["firstName"].Value;
-                var lastName = selectedRow.Cells["lastName"].Value;
-                var age = selectedRow.Cells["age"].Value;
-                var participant = _service.FindOneByNameAndAge(firstName.ToString(), lastName.ToString(), Convert.ToInt32(age));
-                
-                if (_service.FindByParticipant(participant).Count == 2)
-                    MessageAlert.ShowErrorMessage(null, "This participant is already registered in the maximum number of events (2)!");
+                if (dataGridViewParticipants.SelectedRows.Count == 0)
+                {
+                    var registerForm = new RegisterForm(_service, _currentEmployee, null);
+                    registerForm.ShowDialog();   
+                }
                 else
                 {
-                    var registerForm = new RegisterForm(_service, _currentEmployee, participant);
-                    registerForm.ShowDialog();   
+                    var selectedRow = dataGridViewParticipants.SelectedRows[0];
+                    var firstName = selectedRow.Cells["firstName"].Value;
+                    var lastName = selectedRow.Cells["lastName"].Value;
+                    var age = selectedRow.Cells["age"].Value;
+                    var participant = _service.FindOneByNameAndAge(firstName.ToString(), lastName.ToString(), Convert.ToInt32(age));    
+                    
+                    if (_service.FindByParticipant(participant).Count == 2)
+                        MessageAlert.ShowErrorMessage(null, "This participant is already registered in the maximum number of events (2)!");
+                    else
+                    {
+                        var registerForm = new RegisterForm(_service, _currentEmployee, participant);
+                        registerForm.ShowDialog();   
+                    }
                 }
             }
             catch (Exception ex)
