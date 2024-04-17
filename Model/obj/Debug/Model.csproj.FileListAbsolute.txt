@@ -1,0 +1,6 @@
+C:\Users\alest\RiderProjects\mpp\csharp-project-client-server\Model\bin\Debug\Model.dll
+C:\Users\alest\RiderProjects\mpp\csharp-project-client-server\Model\bin\Debug\Model.pdb
+C:\Users\alest\RiderProjects\mpp\csharp-project-client-server\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\alest\RiderProjects\mpp\csharp-project-client-server\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\alest\RiderProjects\mpp\csharp-project-client-server\Model\obj\Debug\Model.dll
+C:\Users\alest\RiderProjects\mpp\csharp-project-client-server\Model\obj\Debug\Model.pdb
