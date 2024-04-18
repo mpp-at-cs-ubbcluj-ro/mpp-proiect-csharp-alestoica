@@ -198,7 +198,7 @@ namespace csharp_project
             });
         }
 
-        public void NotifyAddParticipant(Participant participant)
+        /*public void NotifyAddParticipant(Participant participant)
         {
             Console.WriteLine("NotifyAddParticipant");
             
@@ -221,7 +221,7 @@ namespace csharp_project
                     throw new ApplicationException(e.Message, e);
                 }
             });
-        }
+        }*/
 
         /*protected virtual void OnUserEvent(UserEventArgs e)
         {

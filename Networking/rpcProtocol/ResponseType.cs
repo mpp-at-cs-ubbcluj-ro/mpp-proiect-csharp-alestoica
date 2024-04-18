@@ -6,10 +6,10 @@ namespace Networking.rpcProtocol
         Error,
         GetEvents,
         GetParticipants,
-        Update,
+        /*Update,*/
         NewRegistration,
-        NewParticipant,
-        LoggedIn,
-        LoggedOut
+        /*NewParticipant,*/
+        /*LoggedIn,
+        LoggedOut*/
     }
 }

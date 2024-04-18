@@ -338,7 +338,8 @@ namespace Networking.rpcProtocol
         
         private static bool IsUpdate(Response response)
         {
-            return response.GetType() == ResponseType.NewRegistration || response.GetType() == ResponseType.NewParticipant;
+            return response.GetType() == ResponseType.NewRegistration;
+                /*|| response.GetType() == ResponseType.NewParticipant;*/
         }
 
         private void HandleUpdate(Response response)
@@ -356,7 +357,7 @@ namespace Networking.rpcProtocol
                     Console.WriteLine(e);
                 }
             }
-            else if (response.GetType() == ResponseType.NewParticipant)
+            /*else if (response.GetType() == ResponseType.NewParticipant)
             {
                 var participant = (Participant)response.GetData();
 
@@ -368,7 +369,7 @@ namespace Networking.rpcProtocol
                 {
                     Console.WriteLine(e);
                 }
-            }
+            }*/
         }
 
         

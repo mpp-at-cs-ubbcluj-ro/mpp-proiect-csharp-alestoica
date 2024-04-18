@@ -60,13 +60,13 @@ namespace csharp_project.service
             }
         }
         
-        private void NotifyAddParticipant(Participant participant)
+        /*private void NotifyAddParticipant(Participant participant)
         {
             foreach (var client in _loggedClients)
             {
                 Task.Run(() => client.Value.NotifyAddParticipant(participant));
             }
-        }
+        }*/
 
         public Employee FindOneByUsernameAndPassword(string username, string password)
         {
@@ -117,7 +117,7 @@ namespace csharp_project.service
         public void AddParticipant(Participant entity)
         {
             _participantService.Add(entity);
-            NotifyAddParticipant(entity);
+            /*NotifyAddParticipant(entity);*/
         }
         
         public int CountParticipants(AgeEvent ageEvent)

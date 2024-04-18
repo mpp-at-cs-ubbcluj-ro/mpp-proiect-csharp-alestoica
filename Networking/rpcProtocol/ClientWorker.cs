@@ -300,7 +300,7 @@ namespace Networking.rpcProtocol
             }
         }
 
-        public virtual void NotifyAddParticipant(Participant participant)
+        /*public virtual void NotifyAddParticipant(Participant participant)
         {
             var response = new Response.Builder().Type(ResponseType.NewParticipant).Data(participant).Build();
 
@@ -312,6 +312,6 @@ namespace Networking.rpcProtocol
             {
                 throw new Exception("Adding participant error: " + e);
             }
-        }
+        }*/
     }
 }

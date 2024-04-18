@@ -5,6 +5,6 @@ namespace csharp_project.service
     public interface IObserver
     {
         void NotifyAddRegistration(Registration registration);
-        void NotifyAddParticipant(Participant participant);
+        /*void NotifyAddParticipant(Participant participant);*/
     }
 }

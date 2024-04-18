@@ -57,7 +57,8 @@ namespace Server
             
             var service = new Service(participantServ, employeeServ, ageEventServ, registrationServ);
 
-            var server = new ConcurrentServer(ip, port, service);
+            /*var server = new ConcurrentServer(ip, port, service);*/
+            var server = new ProtoConcurrentServer(ip, port, service);
             server.Start();
             Console.WriteLine("Server started ...");
         }
