@@ -101,7 +101,7 @@ namespace Protocol
                 }
                 case Request.Types.RequestType.Logout:
                 {
-                    var employeeId = request.Employee.Id;
+                    var employeeId = request.Id;
 
                     try
                     { 
@@ -175,7 +175,7 @@ namespace Protocol
                 }
                 case Request.Types.RequestType.GetParticipant:
                 {
-                    var participantId = request.Participant.Id;
+                    var participantId = request.Id;
 
                     try
                     {
